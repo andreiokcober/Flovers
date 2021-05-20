@@ -1,0 +1,18 @@
+@import './style.css/main.css';
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    max-width: 1700px;
+    margin: 0 auto;
+    
+    
+}
+.conteiner{
+    max-width: 960px;
+    margin: 0 auto;
+}
+.h1{
+    color :red
+}
